@@ -14,13 +14,13 @@ body {
     background-color: black;
     background-image: url(img/space.png);
     height: 600px;
-    width: 600px;
+    width: 1200px;
 }
 
 .game-instructions {
     position: relative;
     color: white;
-    left: 7rem;
+    left: 10rem;
     top: 0px;
 }
 
