@@ -1,2 +1,2 @@
 # Jogos-js
-Repositório com jogos em Java script
+Repositório com jogos em Javascript
